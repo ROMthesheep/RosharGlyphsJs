@@ -9,8 +9,15 @@ And then I ruin it.
 Matrix piece using P5Js to form this shapes similar to Roshar Glyphs. This kind of caligraphy is based in the stormlight saga from brandon sanderson.
 
 Welcome to my humble tribute.
-
+<p align="center">
 Life before death.
+</p>
+<p align="center">
+Strength before weakness.
+</p>
+<p align="center">
+Journey before destination.
+</p>
 
 ## matrix display:
 ![](https://i.imgur.com/FgzKkyI.png)
