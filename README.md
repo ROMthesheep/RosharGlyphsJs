@@ -6,7 +6,7 @@ Glyphs are a writing system used on Roshar for basic communication, artistic exp
 
 And then I ruin it.
 
-Matrix piece using P5Js to form this shapes similar to Roshar Glyphs. This kind of caligraphy is based in the stormlight saga from brandon sanderson.
+Matrix piece using P5Js to form this shapes similar to Roshar Glyphs. This kind of caligraphy is found in the stormlight book saga from Brandon Sanderson.
 
 Welcome to my humble tribute.
 <p align="center">
