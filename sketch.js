@@ -1,9 +1,9 @@
-const matrx = 10;
-const matry = 1;
+const matrx = 7;
+const matry = 10;
 
 const ancho = 50;
 const alto = 80;
-const tasaSeparacion = 11
+const tasaSeparacion = 8
 
 const nexos = 26;
 const puntosPorTrazo = 4; // allways more than 3
@@ -19,7 +19,7 @@ let rawdistancias = [];
 let sortedDist = [];
 
 function setup() {
-  createCanvas(1280, 190);
+  createCanvas(1080, 2000);
   background(25);
 }
 
