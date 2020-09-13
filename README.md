@@ -1,4 +1,5 @@
 ![](https://i.imgur.com/aXVHqFw.png)
+![](https://i.imgur.com/mHIE5Do.png)
 
 # Roshar Glyphs ft.P5Js
 
@@ -18,6 +19,13 @@ Strength before weakness.
 <p align="center">
 Journey before destination.
 </p>
+## matrix display final version:
+![](https://i.imgur.com/xdqSxOm.png)
 
-## matrix display:
+## matrix display previous version (only lines):
 ![](https://i.imgur.com/FgzKkyI.png)
+
+## matrix display square version:
+![](https://i.imgur.com/XUqFUbC.png)
+## matrix display Slim version:
+![](https://i.imgur.com/QRyNsxV.png)
