@@ -1,5 +1,4 @@
-<!--![](https://i.imgur.com/aXVHqFw.png)--!>
-
+<!--![](https://i.imgur.com/aXVHqFw.png) -->
 ![](https://i.imgur.com/mHIE5Do.png)
 
 # Roshar Glyphs ft.P5Js
