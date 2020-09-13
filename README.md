@@ -19,6 +19,7 @@ Strength before weakness.
 <p align="center">
 Journey before destination.
 </p>
+
 ## matrix display final version:
 ![](https://i.imgur.com/xdqSxOm.png)
 
